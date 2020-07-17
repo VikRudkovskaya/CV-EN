@@ -1,6 +1,7 @@
 # CV 
 # Intro
-![Years](https://github.com/VikRudkovskaya/CV-EN/master/Screens/Exp-Years-v10-EN.png)
+
+![Years](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Exp-Years-v10-EN.png)
 
 ▥ Rudkovskaya Viktoria ▥  
 ▥ iOS Developer ▥  
