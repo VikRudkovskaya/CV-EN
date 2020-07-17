@@ -63,6 +63,9 @@ A mesmerizing design that occupies my mind
 Der Mechanikus. Angry triangle ◬⑅. Insane hAI   
 ![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
 
+#### Factor-M
+![TechnoM](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-1png)   
+
 #### Symmetry and asymmetry
 Stamps | Stickers | Chips    
     
