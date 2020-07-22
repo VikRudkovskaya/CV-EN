@@ -25,7 +25,8 @@ https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427
 Soft & Pastel  
 
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB-v4.png)  
-  
+  Buttons make sounds, turn, change shape when pressed. Baby will be very interested in poking at the screen for quite some time. The application is designed for children, but this does not mean that you should be bored - you will appreciate the amazing art and hand picked sound effects.  
+    
 〘Swift〙 〘MVVM〙 〘Client-Server like〙〘Localizations〙〘Sketching & Art〙  
   
 [Little ButtonBoard ⟶ AppStore  ](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")  
@@ -65,6 +66,8 @@ Der Mechanikus. Angry triangle ◬⑅. Insane hAI
 
 #### Factor-M
 ![TechnoM](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-1.png)   
+![TechnoM-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-2.png)  
+![TechnoM-3](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-3.png)  
 
 #### Symmetry and asymmetry
 Stamps | Stickers | Chips    
