@@ -5,10 +5,12 @@
 
 ▥ Rudkovskaya Viktoria ▥  
 ▥ iOS Developer ▥  
-
+  
+[⟶ CV-RUS](https://github.com/VikRudkovskaya/CV "Резюме на русском")     
 
 # Technologies and tools
 ![Logo-Tools](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Tools-v8-EN.png)  
+  
 ![Tools list](https://github.com/VikRudkovskaya/CV/raw/master/Screens/ToolsList-v2.png)  
     
 〘Swift〙 〘Objective-C〙 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙 〘Client-Server〙 〘REST〙 〘JSON〙 〘Xcode〙〘Sketch〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙 〘Git〙 
