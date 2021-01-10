@@ -1,12 +1,14 @@
 # CV & History
 # Intro
 
-![Years](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Exp-years-v17-EN.png)
+![Years](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Exp-years-v18-EN.png)
 
-▥ Rudkovskaya Viktoria ▥  
-▥ iOS Developer ▥  
-  
+ ■  Rudkovskaya Viktoria  ■   
+ ■  iOS Developer  ■   
+ ■  Searching for forms ■ Creation ■ Systematization  ■   
+    
 [『CV-RUS』⟶](https://github.com/VikRudkovskaya/CV "Резюме на русском")     
+[⋐CV-RUS⋑⟶](https://github.com/VikRudkovskaya/CV "Резюме на русском")     
 
 # Technologies and tools
 ![Logo-Tools](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Tools-v8-EN.png)  
@@ -17,7 +19,7 @@
 〘Swift〙 〘Objective-C〙 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙 〘Client-Server〙 〘REST〙 〘JSON〙 〘Xcode〙〘Sketch〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙 〘Git〙 
 
 
-# Expiriens
+# Expiriens inside companies
 
 ## ▲ Reksoft 〚2017 - н. в.〛
 https://www.reksoft.com/  
