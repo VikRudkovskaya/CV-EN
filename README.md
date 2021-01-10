@@ -7,6 +7,13 @@
 ▥ iOS Developer ▥  
 
 
+# Technologies and tools
+![Logo-Tools](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Tools-v8-EN.png)  
+![Tools list](https://github.com/VikRudkovskaya/CV/raw/master/Screens/ToolsList-v2.png)  
+    
+〘Swift〙 〘Objective-C〙 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙 〘Client-Server〙 〘REST〙 〘JSON〙 〘Xcode〙〘Sketch〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙 〘Git〙 
+
+
 # Expiriens
 
 ## ▲ Reksoft 〚2017 - н. в.〛
@@ -79,15 +86,7 @@ Stamps | Stickers | Chips
 #### VR's Logos
 ![Logo VRRN](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-MyLogos.png)  
 
-
-
-# Technologies and tools
-〘Swift〙 〘Objective-C〙  
-〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙   
-〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙  〘Client-Server〙 〘REST〙   
-〘JSON〙  
-〘Xcode〙〘Sketch〙〘Git〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙  
-
+  
 # BIO
 ◎ <<<  Moved to Tallinn [Estonia] 
 
