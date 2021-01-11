@@ -3,12 +3,14 @@
 
 ![Years](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Exp-years-v21-EN.png)
 
- ■  Rudkovskaya Viktoria  ■   
- ■  iOS Developer  ■   
- ■  Searching for forms ■ Creation ■ Systematization  ■   
+▧ Rudkovskaya Viktoria ▨    
+▧  iOS Developer  ▨   
+   
+▥  Searching for forms ▥ Creation ▥ Systematization  ▥   
     
 [⟶ ⌊CV-RUS⌋](https://github.com/VikRudkovskaya/CV "Резюме на русском")     
-[⌊CV-RUS⌋ ⟶](https://github.com/VikRudkovskaya/CV "Резюме на русском")     
+[⟶ ⌞CV-RUS⌟](https://github.com/VikRudkovskaya/CV "Резюме на русском")     
+[⟶ ◢ CV-RUS ◣](https://github.com/VikRudkovskaya/CV "Резюме на русском")   
 
 # Technologies and tools
 ![Logo-Tools](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Tools-v8-EN.png)  
