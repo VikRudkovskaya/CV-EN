@@ -10,8 +10,6 @@
     
 [⟶ ⌊CV-RUS⌋](https://github.com/VikRudkovskaya/CV "Резюме на русском")     
   
-[⟶ ⌞CV-RUS⌟](https://github.com/VikRudkovskaya/CV "Резюме на русском")     
-
 # Technologies and tools
 ![Logo-Tools](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Tools-v8-EN.png)  
   
@@ -22,7 +20,8 @@
 
 
 # Expiriens inside companies
-
+![Projects inside logo](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Projects-Inside-v10.png) 
+  
 ## ▲ Reksoft 〚2017 - н. в.〛
 https://www.reksoft.com/  
 
