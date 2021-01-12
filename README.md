@@ -50,7 +50,11 @@ Soft & Pastel
 ![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
 ![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts-v5.png)  
-
+  
+⌾  
+⌾  
+⌾    
+  
 ### Shadesmar
 Sea of beads
   
@@ -79,24 +83,22 @@ Concrete  & Blocks
   ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒        
   ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒      
 
-# Visual material out of projects
+# Visual materials out of projects
 ![Projects inside logo](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Outside-Borders-v2-EN.png) 
-Sketches of elusive ideas
-#### Eggs
-![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg.png)  
-![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2.png)  
+Infinite freedom. Sketches of elusive ideas.
 
 #### White Noize & Cubes
-![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize.png)  
+![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-v6.png)  
 ![Noize-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-2.png)  
+
+#### Eggs
+![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-v6.png)  
+![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2-v3.png)  
+![Eggs-3](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-3-v2.png)  
 
 #### Black Monolith
 A mesmerizing design that occupies my mind  
 ![Monolith](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-M.png)  
-
-#### Non-Flat characters
-Der Mechanikus. Angry triangle ◬⑅. Insane hAI   
-![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
 
 #### Factor-M
 ![TechnoM](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-1.png)   
@@ -113,8 +115,20 @@ Stamps | Stickers | Chips
 #### VR's Logos
 ![Logo VRRN](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-MyLogos.png)  
 
+#### Riga. Lightning sign
+August-November 2020
+![Riga](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Lightning.png) 
+
+#### Non-Flat characters
+Der Mechanikus. Angry triangle ◬⑅. Insane hAI   
+![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
+
+# Education
+
+
   
 # BIO
+### 2020
 ◎ <<<  Moved to Tallinn [Estonia] 
 
 ### 2019 - now
