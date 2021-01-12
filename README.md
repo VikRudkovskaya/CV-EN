@@ -80,7 +80,7 @@ Concrete  & Blocks
   ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒      
 
 # Visual material out of projects
-![Projects inside logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Outside-Borders-v2-EN.png) 
+![Projects inside logo](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Outside-Borders-v2-EN.png) 
 Sketches of elusive ideas
 #### Eggs
 ![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg.png)  
