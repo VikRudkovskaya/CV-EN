@@ -22,15 +22,17 @@
 # Expiriens inside companies
 ![Projects inside logo](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Projects-Inside-v10.png) 
   
-## ▲ Reksoft 〚2017 - н. в.〛
-https://www.reksoft.com/  
+## Reksoft 〚2017 - н. в.〛
+[⟶ ▲ Reksoft]( https://www.reksoft.com/ "Сайт компании Reksoft")    
+  
+[⟶ ▲]( https://www.reksoft.com/ "Сайт компании Reksoft")      
 
-## ▨ RestartIT ▧ 〚2017〛
+## RestartIT〚2017〛
 
-## FutureComes ◯ 〚2016 - 2017〛
-https://futurecomes.com/  
-
-
+## FutureComes〚2016 - 2017〛
+[⟶  ◯]( https://futurecomes.com/ "Сайт компании FutureComes")
+  
+[⟶ FutureComes ◯]( https://futurecomes.com/ "Сайт компании FutureComes")
 
 # Personal PRJCTs
 https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427
@@ -62,8 +64,6 @@ Sea of beads
 
   〘Swift〙 〘SpriteKit〙〘MVVM〙 〘Client-Server like〙〘Localizations〙 〘Sketching & Art〙   
     
-  ╳  In progress ╳   
-
   [⟶ Code & Art](https://github.com/VikRudkovskaya/Shadesmar)  
     
   ◯           
@@ -92,12 +92,15 @@ Infinite freedom. Sketches of elusive ideas.
 ![Noize-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-2.png)  
 
 #### Eggs
+Treasure inside
+  
 ![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-v6.png)  
 ![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2-v3.png)  
 ![Eggs-3](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-3-v2.png)  
 
 #### Black Monolith
 A mesmerizing design that occupies my mind  
+  
 ![Monolith](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-M.png)  
 
 #### Factor-M
@@ -117,6 +120,7 @@ Stamps | Stickers | Chips
 
 #### Riga. Lightning sign
 August-November 2020
+  
 ![Riga](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Lightning.png) 
 
 #### Non-Flat characters
@@ -147,7 +151,7 @@ Der Mechanikus. Angry triangle ◬⑅. Insane hAI
 ◎ 
 
 ### 1991
-◎ Was born in Russia. 
+◎ Was born in Russia   
 
 # Contacts
 
