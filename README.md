@@ -54,15 +54,33 @@ Soft & Pastel
 ### Shadesmar
 Sea of beads
   
-  ![Shadesmar](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Shadesmar-v6.png)  
+  ![Shadesmar](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Shadesmar-v7.png)  
 
-〘Swift〙 〘SpriteKit〙〘MVVM〙 〘Client-Server like〙〘Localizations〙 〘Sketching & Art〙   
+  〘Swift〙 〘SpriteKit〙〘MVVM〙 〘Client-Server like〙〘Localizations〙 〘Sketching & Art〙   
+    
+  ╳  In progress ╳   
+
+  [⟶ Code & Art](https://github.com/VikRudkovskaya/Shadesmar)  
+    
+  ◯           
+  ◯  
+  ◯ 
   
-╳  In progress ╳   
+  #### Panelki
+Concrete  & Blocks
+  
+Му variation on the theme of  https://www.zupagrafika.com/shop-posters/prague-jizni-mesto  
+    
+  [⟶ Code & Art](https://github.com/VikRudkovskaya/Panelki)   
+    
+  ![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v4.png)  
+    
+  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒      
+  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒        
+  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒      
 
-[View code & art](https://github.com/VikRudkovskaya/Shadesmar)  
-
-### Visual material out of projects
+# Visual material out of projects
+![Projects inside logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Outside-Borders-v2-EN.png) 
 Sketches of elusive ideas
 #### Eggs
 ![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg.png)  
@@ -119,4 +137,4 @@ Stamps | Stickers | Chips
 
 # Contacts
 
-# Visual materials
+
