@@ -37,16 +37,19 @@ https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427
 ### Little Button Board
 Soft & Pastel  
 
-![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB-v4.png)  
+![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB-v5.png)  
+  
   Buttons make sounds, turn, change shape when pressed. Baby will be very interested in poking at the screen for quite some time. The application is designed for children, but this does not mean that you should be bored - you will appreciate the amazing art and hand picked sound effects.  
     
 〘Swift〙 〘MVVM〙 〘Client-Server like〙〘Localizations〙〘Sketching & Art〙  
   
-[Little ButtonBoard ⟶ AppStore  ](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")  
+[⟶ AppStore ](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")    
+[⟶ YouTube ▷](https://www.youtube.com/watch?v=Sj96SaZYuUc "")    
+[⟶ Code & Art](https://github.com/VikRudkovskaya/LittleBusyboard)  
 
 ![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
-![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts-v3.png)  
+![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts-v5.png)  
 
 ### Shadesmar
 Sea of beads
