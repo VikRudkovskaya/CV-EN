@@ -23,19 +23,17 @@
 ![Projects inside logo](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Projects-Inside-v10.png) 
   
 ## Reksoft 〚2017 - н. в.〛
-[⟶ ▲ Reksoft]( https://www.reksoft.com/ "Сайт компании Reksoft")    
+[⟶ ▲ Reksoft]( https://www.reksoft.com/ "▲ Reksoft Landing")    
   
-[⟶ ▲]( https://www.reksoft.com/ "Сайт компании Reksoft")      
-
 ## RestartIT〚2017〛
 
 ## FutureComes〚2016 - 2017〛
-[⟶  ◯]( https://futurecomes.com/ "Сайт компании FutureComes")
-  
-[⟶ FutureComes ◯]( https://futurecomes.com/ "Сайт компании FutureComes")
+[⟶ FutureComes ◯]( https://futurecomes.com/ "FutureComes ◯ Landing")
 
 # Personal PRJCTs
-https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427
+![My projects](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-My-Projects-v7-EN.png) 
+[⟶ Released applications list in AppStore  ](https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427 "Рудковская Виктория - Аккаунт разработчика")
+
 ### Little Button Board
 Soft & Pastel  
 
