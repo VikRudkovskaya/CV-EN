@@ -1,6 +1,7 @@
 # CV & History
-[□ Intro](#intro)
-[Technologies | Tools](#technologies-|-tools)
+[Intro](#intro)  
+[Technologies | Tools](#technologies-|-tools)  
+[Contacts](#contacts)  
 # Intro
 
 ![Years](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Exp-years-v23-EN.png)
