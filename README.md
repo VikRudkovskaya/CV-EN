@@ -1,7 +1,14 @@
 # CV & History
+  
 [Intro](#intro)  
-[Technologies | Tools](#technologies-|-tools)  
+[Technologies | Tools](#technologies-tools)  
+[Experience inside companies](#experience-inside-companies)  
+[Personal projects](#personal-projects)  
+[Visual materials out of projects](#visual-materials-out-of-projects)  
+[Education](#education)  
+[BIO](#bio)  
 [Contacts](#contacts)  
+
 # Intro
 
 ![Years](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Exp-years-v23-EN.png)
@@ -14,7 +21,7 @@
 [⟶ ⌊CV-RUS⌋](https://github.com/VikRudkovskaya/CV "Резюме на русском")     
   
 # Technologies | Tools
-#technologies  
+
 ![Logo-Tools](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Tools-v8-EN.png)  
   
 ![Tools list](https://github.com/VikRudkovskaya/CV/raw/master/Screens/ToolsList-v2.png)  
@@ -34,7 +41,7 @@
 ## FutureComes〚2016 - 2017〛
 [⟶ FutureComes ◯]( https://futurecomes.com/ "FutureComes ◯ Landing")
 
-# Personal PRJCTs
+# Personal projects
 ![My projects](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-My-Projects-v7-EN.png) 
 [⟶ Released applications list in AppStore  ](https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427 "Рудковская Виктория - Аккаунт разработчика")
 
