@@ -3,10 +3,10 @@
 
 ![Years](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Exp-years-v23-EN.png)
 
-▧ Rudkovskaya Viktoria ▨    
-▧  iOS Developer  ▨   
+▫ Rudkovskaya Viktoria ▫    
+▫ iOS Developer ▫   
    
-▥  Searching for forms ▥ Creation ▥ Systematization  ▥   
+▫ Searching for forms ▫ Creation ▫ Systematization ▫   
     
 [⟶ ⌊CV-RUS⌋](https://github.com/VikRudkovskaya/CV "Резюме на русском")     
   
@@ -152,5 +152,18 @@ Der Mechanikus. Angry triangle ◬⑅. Insane hAI
 ◎ Was born in Russia   
 
 # Contacts
+![Contacts](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Contacts-v15-EN.png)  
 
+▫     
+Telegram: @VikRdkvsk  
+Skype: vik-rudkovskaya  
+WhatsApp: +79502219224  
 
+▫    
+  vik-rudkovskaya@yandex.ru  
+  +372 5399 0700  
+  
+▫    
+LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
+Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
+VK: https://vk.com/id151521373  
