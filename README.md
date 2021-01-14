@@ -1,6 +1,8 @@
 # CV & History
+[Intro](#intro)
+[Technologies | Tools](#technologiesTools)
 # Intro
-
+#intro
 ![Years](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Exp-years-v23-EN.png)
 
 ▫ Rudkovskaya Viktoria ▫    
@@ -11,6 +13,7 @@
 [⟶ ⌊CV-RUS⌋](https://github.com/VikRudkovskaya/CV "Резюме на русском")     
   
 # Technologies | Tools
+#technologiesTools
 ![Logo-Tools](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Tools-v8-EN.png)  
   
 ![Tools list](https://github.com/VikRudkovskaya/CV/raw/master/Screens/ToolsList-v2.png)  
@@ -77,9 +80,9 @@ Concrete  & Blocks
     
   ![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v4.png)  
     
-  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒ ❒ ❒ ❒        
-  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒ ❒ ❒ ❒        
-  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒ ❒ ❒ ❒      
+  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒ ❒ ❒ ❒ ❒ ❒           
+  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒ ❒ ❒ ❒ ❒ ❒           
+  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒ ❒ ❒ ❒ ❒ ❒   
 
 # Visual materials out of projects
 ![Projects inside logo](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Outside-Borders-v2-EN.png) 
@@ -164,18 +167,3 @@ Der Mechanikus. Angry triangle ◬⑅. Insane hAI
 ▫ LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
 ▫ Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
 ▫ VK: https://vk.com/id151521373  
-
-# Contacts
-![Contacts](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Contacts-v15-EN.png)  
-
-▪ Telegram: @VikRdkvsk  
-▪ Skype: vik-rudkovskaya  
-▪ WhatsApp: +79502219224  
-  
-▪ vik-rudkovskaya@yandex.ru  
-▪ +372 5399 0700  
-  
-▪ LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
-▪ Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
-▪ VK: https://vk.com/id151521373  
- 
