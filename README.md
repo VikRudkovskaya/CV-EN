@@ -1,13 +1,13 @@
 # CV & History
   
-[Intro](#intro)  
-[Technologies | Tools](#technologies-tools)  
-[Experience inside companies](#experience-inside-companies)  
-[Personal projects](#personal-projects)  
-[Visual materials out of projects](#visual-materials-out-of-projects)  
-[Education](#education)  
-[BIO](#bio)  
-[Contacts](#contacts)  
+▫ [Intro](#intro)  
+▫ [Technologies | Tools](#technologies-and-tools)  
+▫ [Experience inside companies](#experience-inside-companies)  
+▫ [Personal projects](#personal-projects)  
+▫ [Visual materials out of projects](#visual-materials-out-of-projects)  
+▫ [Education](#education)  
+▫ [BIO](#bio)  
+▫ [Contacts](#contacts)  
 
 # Intro
 
@@ -20,7 +20,7 @@
     
 [⟶ ⌊CV-RUS⌋](https://github.com/VikRudkovskaya/CV "Резюме на русском")     
   
-# Technologies | Tools
+# Technologies and tools
 
 ![Logo-Tools](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Tools-v8-EN.png)  
   
