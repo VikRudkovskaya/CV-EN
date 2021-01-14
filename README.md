@@ -1,8 +1,8 @@
 # CV & History
-[Intro](#intro)
-[Technologies | Tools](#technologiesTools)
+[□ Intro](#intro)
+[Technologies | Tools](#technologies-|-tools)
 # Intro
-#intro
+
 ![Years](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Exp-years-v23-EN.png)
 
 ▫ Rudkovskaya Viktoria ▫    
@@ -13,7 +13,7 @@
 [⟶ ⌊CV-RUS⌋](https://github.com/VikRudkovskaya/CV "Резюме на русском")     
   
 # Technologies | Tools
-#technologiesTools
+#technologies  
 ![Logo-Tools](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Tools-v8-EN.png)  
   
 ![Tools list](https://github.com/VikRudkovskaya/CV/raw/master/Screens/ToolsList-v2.png)  
