@@ -10,7 +10,7 @@
     
 [⟶ ⌊CV-RUS⌋](https://github.com/VikRudkovskaya/CV "Резюме на русском")     
   
-# Technologies and tools
+# Technologies | Tools
 ![Logo-Tools](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Tools-v8-EN.png)  
   
 ![Tools list](https://github.com/VikRudkovskaya/CV/raw/master/Screens/ToolsList-v2.png)  
@@ -19,7 +19,7 @@
 〘Swift〙 〘Objective-C〙 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙 〘Client-Server〙 〘REST〙 〘JSON〙 〘Xcode〙〘Sketch〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙 〘Git〙 
 
 
-# Expiriens inside companies
+# Experience inside companies
 ![Projects inside logo](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Projects-Inside-v10.png) 
   
 ## Reksoft 〚2017 - н. в.〛
@@ -77,9 +77,9 @@ Concrete  & Blocks
     
   ![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v4.png)  
     
-  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒      
-  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒        
-  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒      
+  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒ ❒ ❒ ❒        
+  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒ ❒ ❒ ❒        
+  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒ ❒ ❒ ❒      
 
 # Visual materials out of projects
 ![Projects inside logo](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Outside-Borders-v2-EN.png) 
@@ -159,7 +159,7 @@ Der Mechanikus. Angry triangle ◬⑅. Insane hAI
 ▫ WhatsApp: +79502219224  
   
 ▫ vik-rudkovskaya@yandex.ru  
-▫  +372 5399 0700  
+▫ +372 5399 0700  
   
 ▫ LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
 ▫ Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
@@ -173,22 +173,9 @@ Der Mechanikus. Angry triangle ◬⑅. Insane hAI
 ▪ WhatsApp: +79502219224  
   
 ▪ vik-rudkovskaya@yandex.ru  
-▪  +372 5399 0700  
+▪ +372 5399 0700  
   
 ▪ LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
 ▪ Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
 ▪ VK: https://vk.com/id151521373  
-
-# Contacts
-![Contacts](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-Contacts-v15-EN.png)  
-
-▭ Telegram: @VikRdkvsk  
-▭ Skype: vik-rudkovskaya  
-▭ WhatsApp: +79502219224  
-  
-▭ vik-rudkovskaya@yandex.ru  
-▭  +372 5399 0700  
-  
-▭ LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
-▭ Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
-▭ VK: https://vk.com/id151521373  
+ 
