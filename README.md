@@ -141,6 +141,7 @@ Der Mechanikus. Angry triangle ◬⑅. Insane hAI
 
   
 # BIO
+![Logo](https://github.com/VikRudkovskaya/CV-EN/raw/master/Screens/Logo-About-Me-v5-EN.png "Viktoria Rudkovskaya")  
 ### 2020
 ◎ <<<  Moved to Tallinn [Estonia] 
 
@@ -175,3 +176,14 @@ Der Mechanikus. Angry triangle ◬⑅. Insane hAI
 ▫ LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
 ▫ Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
 ▫ VK: https://vk.com/id151521373  
+
+# Contents
+
+▫ [Intro](#intro)  
+▫ [Technologies | Tools](#technologies-and-tools)  
+▫ [Experience inside companies](#experience-inside-companies)  
+▫ [Personal projects](#personal-projects)  
+▫ [Visual materials out of projects](#visual-materials-out-of-projects)  
+▫ [Education](#education)  
+▫ [BIO](#bio)  
+▫ [Contacts](#contacts)  
